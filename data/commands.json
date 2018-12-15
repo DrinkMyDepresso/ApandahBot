@@ -1,0 +1,1 @@
+[null,{"name":"test","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"Hi!","storage":"0","varName2":"","name":"Send Message"}]},{"name":"furrypic","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"you cant be fappin ${member} \nits no nut november","storage":"0","varName2":"","name":"Send Message"}]}]
